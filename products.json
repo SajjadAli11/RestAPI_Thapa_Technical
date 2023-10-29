@@ -1,0 +1,38 @@
+[
+    {
+        "name": "iphone1",
+        "price":154,
+        "feature":true,
+        "company":"apple1"
+    },
+    {
+        "name": "iphone2",
+        "price":155,
+        "feature":true,
+        "company":"apple2"
+    },
+    {
+        "name": "iphone3",
+        "price":156,
+        "feature":true,
+        "company":"apple3"
+    },
+    {
+        "name": "iphone1",
+        "price":154,
+        "feature":true,
+        "company":"apple1"
+    },
+    {
+        "name": "iphone2",
+        "price":155,
+        "feature":true,
+        "company":"apple2"
+    },
+    {
+        "name": "iphone3",
+        "price":156,
+        "feature":true,
+        "company":"apple3"
+    }
+]
